@@ -1,1 +1,1 @@
-# Snowflake_interation
+# Snowflake_integration
